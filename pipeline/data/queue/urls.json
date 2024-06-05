@@ -5,6 +5,11 @@
     "title": "Deploy a Cluster for Threat Defence Virtual in a Public Cloud"
   },
   {
+    "source": "https://developer.cisco.com/docs/cisco-xdr/introduction/",
+    "products": ["XDR", "API", "Automation", "Private Intelligence"],
+    "title": "Introdcution to XDR APIs"  
+  }
+  {
     "source": "https://www.cisco.com/c/en/us/td/docs/security/firepower/licensing/faq/firepower-license-FAQ.html",
     "products": ["firewall", "firepower", "asa"],
     "title": "Cisco Secure Firewall Licensing Frequently Asked Questions"
